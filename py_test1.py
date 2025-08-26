@@ -8,4 +8,5 @@ df['flag_old_customer'] = 0
 
 
 print("Hello")
+print("World!")
 print(df)
