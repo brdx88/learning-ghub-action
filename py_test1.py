@@ -6,4 +6,6 @@ df['total_amount'] = df['amount'] + df['tax']
 df['flag_new_customer'] = 1
 df['flag_old_customer'] = 0
 
+
+print("Hello")
 print(df)
